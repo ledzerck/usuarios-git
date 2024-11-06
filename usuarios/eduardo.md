@@ -7,5 +7,6 @@ Me gusta :
 - Aprender idiomas
 - Escuchar musica de metal
 - Hacer ejercicio
+- Estudiar
 
 Mi usuario de GitHub es [esolano1](https://github.com/esolano1)
