@@ -20,4 +20,4 @@
 
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
 
-- Rubén, mi nombre de usuario en git: https://github.com/Torofms37
+- Rubén, mi nombre de usuario en git:[eltorofms37](https://github.com/Torofms37)
