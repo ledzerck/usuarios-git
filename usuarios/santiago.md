@@ -8,4 +8,4 @@ Me gusta
 -Los videojuegos, mis favoritos son el Valorant y TFT
 -La programacion
 
-Mi usuario de Git es [SantiagoTrejoL](httpsgithub.comSantiagoTrejoL)
+Mi usuario de Git es [SantiagoTrejoL](https://github.com/SantiagoTrejoL)

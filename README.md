@@ -19,4 +19,4 @@
 - Ana, mi nombre de usuario en git: [anhna8](https://github.com/anhna8)
 
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
-- Santiago, mi nombre de usurio de github: [SantiagoTrejoL](httpsgithub.comSantiagoTrejoL)
+- Santiago, mi nombre de usurio de github: [SantiagoTrejoL](https://github.com/SantiagoTrejoL)
