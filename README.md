@@ -19,3 +19,6 @@
 - Ana, mi nombre de usuario en git: [anhna8](https://github.com/anhna8)
 
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
+
+- Daneea, mi nombre de usuario en git: [DaneeaGaby2003](https://github.com/DaneeaGaby2003)
+
