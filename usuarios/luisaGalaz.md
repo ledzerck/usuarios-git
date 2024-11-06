@@ -1,4 +1,4 @@
-# mi usuario de git
+# mi usuario de GitHub
 soy Maria Luisa y soy ingeniera biomedica con maestria en ciencias de la computacion
 me gusta:
 - Programar.
