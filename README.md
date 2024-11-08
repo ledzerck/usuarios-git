@@ -21,4 +21,4 @@
 - Joel, mi nombre de usuario en git: [EduardoJo123](https://github.com/EduardoJo123-d)
 - Ailyn, mi nombre de usuario en git: [AilynMza](https://github.com/AilynMza)
 
--Valeria, mi nombre de usuario en git: [Valeriagalaviz](https://github.com/Valeriagalaviz)
+- Valeria, mi nombre de usuario en git: [Valeriagalaviz](https://github.com/Valeriagalaviz)
