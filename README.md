@@ -20,3 +20,4 @@
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
 - Joel, mi nombre de usuario en git: [EduardoJo123](https://github.com/EduardoJo123-d)
 - Ailyn, mi nombre de usuario en git: [AilynMza](https://github.com/AilynMza)
+- Jhoana, mi nombre de usuario en git: [Jhois28](https://github.com/Jhois28)
