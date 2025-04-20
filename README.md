@@ -26,3 +26,4 @@
 - Isaac, mi nombre de usuario en GitHub es: [Jady15](https://github.com/Jady15)
 - Xavier, mi nombre de usuario en git: [xaviergdomm](https://github.com/xaviergdomm)
 - Herwin, mi nombre de usuario en git: [Herwini](https://github.com/Herwini)
+- Pablo, mi nombre de usuario de git es: [Jpablo82965](https://github.com/Jpablo82965)
