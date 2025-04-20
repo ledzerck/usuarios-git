@@ -37,4 +37,5 @@
 - Santiago Michel, mi nombre de usuario en GitHub: [YagoMichel](https://github.com/YagoMichel)
 - Emiliano, mi nombre de usuario en GitHub es: [Emisario-py](https://github.com/Emisario-py)
 - Alexandra, mi nombre de usuario en git: [alexgc21](https://github.com/alexgc21)
+- Viviana, mi nombre de usuario en git: [VivianaLugo07](https://github.com/VivianaLugo07)
 
