@@ -1,5 +1,6 @@
 # lista de usuarios de git
 
+
 - Aldo, mi nombre de usuario en git es: [ledzerck](https://github.com/ledzerck)
 - Amadeus, mi nombre de usuario en git: [11DEUS11](https://github.com/11DEUS11)
 - Leonardo, mi nombre de usuario en git: [LeonardoSV18](https://github.com/LeonardoSV18)
@@ -7,17 +8,23 @@
 - Cesar, mi usuario de GitHub es: [CESAR1098OMAR](https://github.com/CESAR1098OMAR)
 - Rodolfo, mi usuario de GitHub es: [Gero121601](https://github.com/Gero121601)
 - Daniel, mi nombre de usuario en GitHub: [Danielsasa](https://github.com/Danielsasa)
-
 - leonardo D.mi nombre de usuario en GitHub es: [leonardoDRivera](https://github.com/leonardoDRivera)
 - Ivan Isea, mi nombre de usuario en GitHub es: [ivan_isea](https://github.com/ivanisea1983)
-
-
 - Martin, mi nombre de usuario en git:[MartinTorres1995](https://github.com/MartinTorres1995)
-
 - Fannya Garcia mi nombre de usuario en Git Hub es: [Steffanyscode](https://github.com/Steffanyscode)
-
 - Ana, mi nombre de usuario en git: [anhna8](https://github.com/anhna8)
-
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
-
+- Joel, mi nombre de usuario en git: [EduardoJo123](https://github.com/EduardoJo123-d)
+- Ailyn, mi nombre de usuario en git: [AilynMza](https://github.com/AilynMza)
+---
+- Francisco, mi nombre de usuario en git:[sasasamaes](https://github.com/sasasamaes)
+- Rubén, mi nombre de usuario en git: [eltorofms37](https://github.com/Torofms37)
+- Jahir, mi nombre de usuario en git: [Nurarito](https://github.com/Nurarito)
+- Joryer , mi nombre de usuario en git es: [JoryerJL](https://github.com/JoryerJL)
+- Antonio, mi nombre de usuario en git : [Antoniodv28](https://github.com/Antoniodv28)
+- Monica, mi nombre de usuario en git: [Monitz21](https://github.com/Monitz21)
+- Isaac, mi nombre de usuario en GitHub es: [Jady15](https://github.com/Jady15)
+- Xavier, mi nombre de usuario en git: [xaviergdomm](https://github.com/xaviergdomm)
+- Herwin, mi nombre de usuario en git: [Herwini](https://github.com/Herwini)
+- Pablo, mi nombre de usuario de git es: [Jpablo82965](https://github.com/Jpablo82965)
 - Norma, mi nombre de usuario en git: [normarg7](https://github.com/normarg7)
