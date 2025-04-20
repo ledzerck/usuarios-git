@@ -2,7 +2,6 @@
 
 
 - Aldo, mi nombre de usuario en git es: [ledzerck](https://github.com/ledzerck)
-- Alduino, mi usuario de github es [AlduinoCalderon](/https://github.com/AlduinoCalderon)
 - Amadeus, mi nombre de usuario en git: [11DEUS11](https://github.com/11DEUS11)
 - Leonardo, mi nombre de usuario en git: [LeonardoSV18](https://github.com/LeonardoSV18)
 - Alberto, mi nombre de usuario en git: [beticomtz24](https://github.com/beticomtz24)
@@ -41,4 +40,6 @@
 - Viviana, mi nombre de usuario en git: [VivianaLugo07](https://github.com/VivianaLugo07)
 - Yulit Cordova, mi nombre de usuario en git: [yucordova](https://github.com/yucordova)
 - Johana, mi nombre de usuario en GitHub: [johanaer](https://github.com/johanaer)
+- Alduino, mi usuario de github es [AlduinoCalderon](/https://github.com/AlduinoCalderon)
+- liliana, mi nombre de usuario en git: [lili657](https:/github.com/lili657)
 
