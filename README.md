@@ -1,6 +1,6 @@
 # lista de usuarios de git
 
-- Joryer , mi nombre de usuario en git es: [JoryerJL](https://github.com/JoryerJL)
+
 - Aldo, mi nombre de usuario en git es: [ledzerck](https://github.com/ledzerck)
 - Amadeus, mi nombre de usuario en git: [11DEUS11](https://github.com/11DEUS11)
 - Leonardo, mi nombre de usuario en git: [LeonardoSV18](https://github.com/LeonardoSV18)
@@ -19,3 +19,5 @@
 ---
 - Francisco, mi nombre de usuario en git:[sasasamaes](https://github.com/sasasamaes)
 - Rubén, mi nombre de usuario en git: [eltorofms37](https://github.com/Torofms37)
+- Jahir, mi nombre de usuario en git: [Nurarito](https://github.com/Nurarito)
+- Joryer , mi nombre de usuario en git es: [JoryerJL](https://github.com/JoryerJL)
