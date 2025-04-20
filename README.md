@@ -2,6 +2,7 @@
 
 
 - Aldo, mi nombre de usuario en git es: [ledzerck](https://github.com/ledzerck)
+- Alduino, mi usuario de github es [AlduinoCalderon](/https://github.com/AlduinoCalderon)
 - Amadeus, mi nombre de usuario en git: [11DEUS11](https://github.com/11DEUS11)
 - Leonardo, mi nombre de usuario en git: [LeonardoSV18](https://github.com/LeonardoSV18)
 - Alberto, mi nombre de usuario en git: [beticomtz24](https://github.com/beticomtz24)
