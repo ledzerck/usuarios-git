@@ -43,3 +43,4 @@
 - Alduino, mi usuario de github es [AlduinoCalderon](/https://github.com/AlduinoCalderon)
 - liliana, mi nombre de usuario en git: [lili657](https:/github.com/lili657)
 - Alvaro. mi nombre de uuario en git [Alvaro-Calleros](https://github.com/Alvaro-Calleros) 
+- Juan, mi nomre de usuario en git: [JuanCarHB](https://github.com/JuanCarHB)
