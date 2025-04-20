@@ -35,3 +35,5 @@
 - Luisa Galaz, mi nombre de usuario en GitHub es: [MLuisaGP](https://github.com/MLuisaGP)
 - Miguel, mi nombre de usuario en Git Hub es: [nova-cz](https://github.com/nova-cz)
 - Santiago Michel, mi nombre de usuario en GitHub: [YagoMichel](https://github.com/YagoMichel)
+- Emiliano, mi nombre de usuario en GitHub es: [Emisario-py](https://github.com/Emisario-py)
+
