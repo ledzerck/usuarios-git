@@ -14,6 +14,7 @@
 - Fannya Garcia mi nombre de usuario en Git Hub es: [Steffanyscode](https://github.com/Steffanyscode)
 - Ana, mi nombre de usuario en git: [anhna8](https://github.com/anhna8)
 - Oscar, mi nombre de usuario en git: [OscarMM24](https://github.com/OscarMM24)
+- Santiago Michel, mi nombre de usuario en GitHub: [YagoMichel](https://github.com/YagoMichel)
 - Joel, mi nombre de usuario en git: [EduardoJo123](https://github.com/EduardoJo123-d)
 - Ailyn, mi nombre de usuario en git: [AilynMza](https://github.com/AilynMza)
 ---
@@ -33,3 +34,4 @@
 - Santiago, mi nombre de usurio de github: [SantiagoTrejoL](https://github.com/SantiagoTrejoL)
 - Luisa Galaz, mi nombre de usuario en GitHub es: [MLuisaGP](https://github.com/MLuisaGP)
 - Miguel, mi nombre de usuario en Git Hub es: [nova-cz](https://github.com/nova-cz)
+- Santiago Michel, mi nombre de usuario en GitHub: [YagoMichel](https://github.com/YagoMichel)
