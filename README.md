@@ -39,4 +39,5 @@
 - Alexandra, mi nombre de usuario en git: [alexgc21](https://github.com/alexgc21)
 - Viviana, mi nombre de usuario en git: [VivianaLugo07](https://github.com/VivianaLugo07)
 - Yulit Cordova, mi nombre de usuario en git: [yucordova](https://github.com/yucordova)
+- Johana, mi nombre de usuario en GitHub: [johanaer](https://github.com/johanaer)
 
