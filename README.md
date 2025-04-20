@@ -32,3 +32,4 @@
 - Elena, mi nombre de usuario en git: [helena490](https://github.com/helena490)
 - Santiago, mi nombre de usurio de github: [SantiagoTrejoL](https://github.com/SantiagoTrejoL)
 - Luisa Galaz, mi nombre de usuario en GitHub es: [MLuisaGP](https://github.com/MLuisaGP)
+- Miguel, mi nombre de usuario en Git Hub es: [nova-cz](https://github.com/nova-cz)
