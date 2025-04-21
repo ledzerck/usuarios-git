@@ -69,3 +69,4 @@
 - Onesimo,mi nombre de usuario en git: [Onesimo583](https://github.com/Onesimo583)
 - Andrick, mi nombre de usuario en git: [Andricklr](https://github.com/Andricklr)
 - Joan, mi nombre de usuario en git: [Yotogle](https://github.com/Yotogle) 
+- Sinaí, mi nombre de usuario en git: [SinaiYesleny](https://github.com/SinaiYesleny)
