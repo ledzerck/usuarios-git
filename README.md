@@ -75,3 +75,4 @@
 - Luis, mi nombre de usuario en git: [LuisMDJ](https://github.com/LuisMDJ)
 - Beth Saav, mi nombre de usuario en git: [bethsaav](https://github.com/bethsaav)
 - Edgar, Hola mi nombre de usuario en git: [EArredondoRivera](https://github.com/EArredondoRivera)
+- Claudia, mi nombre de usuario en git: [Clau-Estrada](https://github.com/Clau-Estrada)
