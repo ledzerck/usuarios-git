@@ -59,3 +59,4 @@
 - Ximena, mi nombre de usuario en git [XimenaV26](https://github.com/XimenaV26)
 - Lisandro, mi nombre de usuario en git: [Lisartuk](https://github.com/Lisartuk)
 - Adelina, mi nombre de usuario en git [Adelina-Tr](https://github.com/Adelina-Tr)
+- Michelle, mi nombre de usuario en git: [Myshelluwu](https://github.com/Myshelluwu)
