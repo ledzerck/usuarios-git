@@ -70,3 +70,4 @@
 - Andrick, mi nombre de usuario en git: [Andricklr](https://github.com/Andricklr)
 - Joan, mi nombre de usuario en git: [Yotogle](https://github.com/Yotogle) 
 - Sinaí, mi nombre de usuario en git: [SinaiYesleny](https://github.com/SinaiYesleny)
+- Jhoana, mi nombre de usuario en git: [Jhois28](https://github.com/Jhois28)
