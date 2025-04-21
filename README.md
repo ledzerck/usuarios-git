@@ -64,3 +64,4 @@
 - Orlando, mi nombre de usuario en git: [orlando409](https://github.com/orlando409)
 - Adolfo, mi nombre de usuario en git: [MirandaAd](https://github.com/MirandaAd)
 - Celeste, mi nombre de usuario en git: [Celvy92](https://github.com/Celvy92)
+- Uriel, mi nombre de usuario en git: [alexis78523](https://github.com/alexis78523)
