@@ -56,3 +56,4 @@
 - Edgar, mi nombre de usuario en git: [EdgarSuarezRosales](https://github.com/EdgarSuarezRosales)
 - Vane, mi nombre de usuario en git: [vaneds25](https://github.com/vaneds25)
 - Daniela, mi nombre de usuario en git: [DanyMB2326](https://github.com/DanyMB2326)
+- Ximena, mi nombre de usuario en git [XimenaV26](https://github.com/XimenaV26)
