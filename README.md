@@ -65,3 +65,4 @@
 - Adolfo, mi nombre de usuario en git: [MirandaAd](https://github.com/MirandaAd)
 - Celeste, mi nombre de usuario en git: [Celvy92](https://github.com/Celvy92)
 - Uriel, mi nombre de usuario en git: [alexis78523](https://github.com/alexis78523)
+- Ivan, mi nobre de usuario en git: [JerryStark89](https://github.com/JerryStark89) 
