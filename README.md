@@ -54,3 +54,4 @@
 - Mackaber, mi nombre de usuario en git: [Mackaber](https://github.com/Mackaber)
 - Liz Perez, mi nombre de usuario en git: [lizipg](https://github.com/lizipg)
 - Edgar, mi nombre de usuario en git: [EdgarSuarezRosales](https://github.com/EdgarSuarezRosales)
+- Vane, mi nombre de usuario en git: [vaneds25](https://github.com/vaneds25)
