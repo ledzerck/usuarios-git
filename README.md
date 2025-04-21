@@ -62,3 +62,4 @@
 - Michelle, mi nombre de usuario en git: [Myshelluwu](https://github.com/Myshelluwu)
 - Valeria, mi nombre de usuario en git: [Valeriagalaviz](https://github.com/Valeriagalaviz)
 - Orlando, mi nombre de usuario en git: [orlando409](https://github.com/orlando409)
+- Adolfo, mi nombre de usuario en git: [MirandaAd](https://github.com/MirandaAd)
