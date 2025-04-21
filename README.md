@@ -55,3 +55,4 @@
 - Liz Perez, mi nombre de usuario en git: [lizipg](https://github.com/lizipg)
 - Edgar, mi nombre de usuario en git: [EdgarSuarezRosales](https://github.com/EdgarSuarezRosales)
 - Vane, mi nombre de usuario en git: [vaneds25](https://github.com/vaneds25)
+- Daniela, mi nombre de usuario en git: [DanyMB2326](https://github.com/DanyMB2326)
