@@ -68,3 +68,4 @@
 - Ivan, mi nobre de usuario en git: [JerryStark89](https://github.com/JerryStark89) 
 - Onesimo,mi nombre de usuario en git: [Onesimo583](https://github.com/Onesimo583)
 - Andrick, mi nombre de usuario en git: [Andricklr](https://github.com/Andricklr)
+- Joan, mi nombre de usuario en git: [Yotogle](https://github.com/Yotogle) 
