@@ -74,3 +74,4 @@
 - Ana D, mi nombre de usuario de GitHub es [ana07-ds](https://github.com/ana07-ds)
 - Luis, mi nombre de usuario en git: [LuisMDJ](https://github.com/LuisMDJ)
 - Beth Saav, mi nombre de usuario en git: [bethsaav](https://github.com/bethsaav)
+- Edgar, Hola mi nombre de usuario en git: [EArredondoRivera](https://github.com/EArredondoRivera)
