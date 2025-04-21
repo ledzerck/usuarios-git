@@ -50,3 +50,4 @@
 - Aldo, mi nombre de usuario en github: [aldohzm](https://github.com/aldohzm)
 - Andrés, mi nombre de usuario en git: [androx999](https://github.com/androx999)
 - Elizabeth, mi nombre de usuario en git: [eli954] (https://github.com/eli954)
+- Mariana, mi nombre de usuario en git: [mar1293](https://github.com/mar1293)
