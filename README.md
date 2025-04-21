@@ -44,3 +44,5 @@
 - liliana, mi nombre de usuario en git: [lili657](https:/github.com/lili657)
 - Alvaro. mi nombre de uuario en git [Alvaro-Calleros](https://github.com/Alvaro-Calleros) 
 - Juan, mi nomre de usuario en git: [JuanCarHB](https://github.com/JuanCarHB)
+- Eliel, mi nombre de usuario en git: [Touchme-fr](https://github.com/Touchme-fr)
+- Alejandra, mi nombre de usuario en git: [AlejandraCarRdz](https://github.com/AlejandraCarRdz) 
