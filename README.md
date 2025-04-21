@@ -47,3 +47,4 @@
 - Eliel, mi nombre de usuario en git: [Touchme-fr](https://github.com/Touchme-fr)
 - Alejandra, mi nombre de usuario en git: [AlejandraCarRdz](https://github.com/AlejandraCarRdz) 
 - Daneea, mi nombre de usuario en git: [DaneeaGaby2003](https://github.com/DaneeaGaby2003)
+- Aldo, mi nombre de usuario en github: [aldohzm](https://github.com/aldohzm)
